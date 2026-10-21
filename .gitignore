@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+.vercel
+dist
+worker.js
+.xmcp
+xmcp-env.d.ts
+.env
+.wrangler
